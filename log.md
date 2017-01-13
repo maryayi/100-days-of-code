@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 10, Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've gone through Creating ICNDB front-end boilerplate
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** it's a great feeling when I finally worked with a public API
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
+
+### Day 2: January 12, Wednesday
+
+**Today's Progress**: I've completed and tested app for first time
+
+**Thoughts** it's working and it's graet but still need some styles
+
+**Link(s) to work**
+1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
+
+### Day 3: January 13, Thursday
+
+**Today's Progress**: I've added some basic style
+
+**Thoughts** it's working localy but not working in github because ICNDB API is not HTTPS and browser dosen't allow running it in Github Pages!
+
+**Link(s) to work**
+1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
