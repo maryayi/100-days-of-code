@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
 
-### Day 2: January 12, Wednesday
+### Day 2: January 11, Wednesday
 
 **Today's Progress**: I've completed and tested app for first time
 
@@ -18,7 +18,7 @@
 **Link(s) to work**
 1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
 
-### Day 3: January 13, Thursday
+### Day 3: January 12, Thursday
 
 **Today's Progress**: I've added some basic style
 
@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
+
+### Day 3: January 13, Friday
+
+**Today's Progress**: starting to-do app
+
+**Thoughts** added some libraries and starting some initial tasks
+
+**Link(s) to work**
+1. [No Link yet!](#)
