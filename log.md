@@ -40,7 +40,7 @@
 
 **Today's Progress**: Designing Layout
 
-**Thoughts** Feel Buggy!
+**Thoughts** Feel Buggy! very Buggy!
 
 **Link(s) to work**
 1. [No Link yet!](#)
