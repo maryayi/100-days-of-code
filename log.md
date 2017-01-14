@@ -27,11 +27,20 @@
 **Link(s) to work**
 1. [get ICNDB Jokes](https://github.com/maryayi/icndb-test)
 
-### Day 3: January 13, Friday
+### Day 4: January 13, Friday
 
 **Today's Progress**: starting to-do app
 
 **Thoughts** added some libraries and starting some initial tasks
+
+**Link(s) to work**
+1. [No Link yet!](#)
+
+### Day 5: January 14, Saturnday
+
+**Today's Progress**: Designing Layout
+
+**Thoughts** Feel Buggy!
 
 **Link(s) to work**
 1. [No Link yet!](#)
